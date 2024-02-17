@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hell there!
+git add . (For all)
+git commit -m"MSG"
+git push
+git pull
